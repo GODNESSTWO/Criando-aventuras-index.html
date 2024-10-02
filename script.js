@@ -1,5 +1,5 @@
 const avanca = document.querySelectorAll('.btn-proximo');
-
+Felipe 2D 2\110\2024
 avanca.forEach(button => {
     button.addEventListener('click', function(){
         const atual = document.querySelector('.ativo');
